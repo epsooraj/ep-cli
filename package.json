@@ -12,5 +12,8 @@
     "cli"
   ],
   "author": "Sooraj Ep",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prettyjson": "^1.2.1"
+  }
 }
