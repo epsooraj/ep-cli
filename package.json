@@ -1,0 +1,16 @@
+{
+  "name": "epsooraj",
+  "version": "0.0.2",
+  "description": "Portfolio",
+  "bin": "./cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ep",
+    "epsooraj",
+    "cli"
+  ],
+  "author": "Sooraj Ep",
+  "license": "MIT"
+}
