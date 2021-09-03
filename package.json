@@ -1,6 +1,6 @@
 {
   "name": "epsooraj",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Portfolio",
   "bin": "./cli.js",
   "scripts": {
